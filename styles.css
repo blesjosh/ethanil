@@ -6,32 +6,34 @@
 
 .navbar
 {
-    background-color: black;
+    background-color: rgb(4, 1, 1);
+    display: flex;
+    gap: 1rem;
 }
 #real
 {
     color: red;
     font-family: "Play",sans-serif;
-    margin-left: 20px;
+    text-align: center;
     
 }
 #alco
 {
     color: red;
     font-family: "Play",sans-serif;
-    margin-left: 100px;
+    text-align: center;
 }
 #drink
 {
     color: greenyellow;
     font-family: "Play",sans-serif;
-    margin-left: 90px;
+    text-align: center;
 }
 #add
 {
     color: greenyellow;
     font-family: "Play",sans-serif;
-    margin-left: 50px;
+    text-align: center;
 }
 .addres{
     color: white
@@ -51,10 +53,49 @@
   }
   iframe{
     width: 400px;
-    margin-left: 100px;
+    text-align: center;
+    display: flex;
+    justify-content: center;  
+    align-items: center;
   }
-  
-  
-  
- 
+
+
+#link
+{
+    color: red;
+}
+.ree
+  {
+    color: red;
+    display: flex;
+
+  }
+  .tome
+  {
+    margin-left: 50px;
+    font-family: "Play", sans-serif;
+  }
+  .buttt
+  {
+    margin-left: 570px;
+    color: blue;
+    background-color: aliceblue;
+   border-radius: 8px;
+   padding: 10px;
+   width: 150px;
+  }
+  .frame{
+    text-align: center;
+    display: flex;
+    justify-content: center;  
+    align-items: center;
+    flex-direction: column;
+  }
+ .frames{
+   
+    display: flex;
+    justify-content: center;  
+    align-items: center;
+    flex-direction: column;
+ }
   
