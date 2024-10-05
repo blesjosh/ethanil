@@ -1,0 +1,60 @@
+*{
+
+    background-color: black;
+    
+}
+
+.navbar
+{
+    background-color: black;
+}
+#real
+{
+    color: red;
+    font-family: "Play",sans-serif;
+    margin-left: 20px;
+    
+}
+#alco
+{
+    color: red;
+    font-family: "Play",sans-serif;
+    margin-left: 100px;
+}
+#drink
+{
+    color: greenyellow;
+    font-family: "Play",sans-serif;
+    margin-left: 90px;
+}
+#add
+{
+    color: greenyellow;
+    font-family: "Play",sans-serif;
+    margin-left: 50px;
+}
+.addres{
+    color: white
+    
+    
+}
+.play-regular {
+    font-family: "Play", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .play-bold {
+    font-family: "Play", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  iframe{
+    width: 400px;
+    margin-left: 100px;
+  }
+  
+  
+  
+ 
+  
