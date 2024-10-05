@@ -1,5 +1,6 @@
 *{
     margin: 0%;
+    /* background-color: black; */
     padding: 0%;
 }
 #logo{
@@ -13,16 +14,35 @@
     width: 80%;
     text-align: center;
     border-radius: 15px;
-    border-right: 60px;
     display: fixed;
     opacity: 75%;
+    width: 100%;
     
 }
 h3{
     display: inline-block;
-    padding-right: 5px;
+    padding-right: 40px;
 }
 .home1{
     background-image: url("./background.jpg");
-    
+    height: 900px;
+    /* background-position-x: 100%; */
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* opacity: 95%; */
+     background-blend-mode: lighten;
+
+}
+#wt{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1000%;
+    text-align: center;
+    padding-top: 200px;
+
+}
+h2{
+    color: rgb(189, 188, 188);
+    text-align: center;
+    padding-top: 50px;
 }
